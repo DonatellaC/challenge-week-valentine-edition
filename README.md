@@ -7,3 +7,5 @@
 ## Day 3 [Romantic Grammar Corrector](https://scrimba.com/scrim/co720498883927ab2c49fad71)
 
 ## Day 4 [Filter Duplicate Emojis](https://scrimba.com/scrim/cob974133a750ba2d8e4dc955)
+
+## Day 5 [Heart Customiser API](https://scrimba.com/scrim/co2034f1f8cd08312b9e63ac3)
